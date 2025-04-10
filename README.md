@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Ameya Patel<br>💻 Currently working on AI/ML projects involving NLP, image processing, and ESG data analysis<br>🤝 Looking to collaborate on machine learning, sustainability analytics, and real-world data-driven projects<br>📫 Reach me at ameyapatel77@gmail.com
+ Hi, I'm Ameya Patel<br>💻 Currently working on AI/ML projects involving NLP, image processing, and ESG data analysis<br>🌱 I've been learning Ollama, GIS tools, and exploring RAG-based chatbot development<br>🤝 Looking to collaborate on machine learning, sustainability analytics, and real-world data-driven projects<br>📫 Reach me at ameyapatel77@gmail.com
 
 
 ## 🌐 Socials:
